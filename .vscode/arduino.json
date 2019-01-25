@@ -1,0 +1,5 @@
+{
+    "board": "adafruit:avr:feather32u4",
+    "port": "/dev/cu.usbmodem14201",
+    "sketch": "buttons_feather/buttons_feather.ino"
+}
